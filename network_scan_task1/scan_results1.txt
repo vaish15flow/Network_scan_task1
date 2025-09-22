@@ -1,0 +1,33 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-09-22 18:13 +0530
+Failed to resolve "ipconfig".
+Nmap scan report for 192.168.56.1
+Host is up (0.00034s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 4.18 seconds
+
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-09-22 18:14 +0530
+Nmap scan report for 192.168.56.1
+Host is up (0.00066s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 1.96 seconds
+
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-09-22 18:18 +0530
+Nmap scan report for 192.168.56.1
+Host is up (0.00048s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 0.94 seconds
